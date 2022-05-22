@@ -127,6 +127,7 @@ class Trainer:
         hyps, refs, acc = [], [], 0
         for i, intent in enumerate(results.keys()):
             if i < 20 and self.verbose:
+                print('Orig: ', intent)
                 print('Real: ', results[intent]['refs'][0])
                 print('Pred: ', results[intent]['hyp'])
                 print()
