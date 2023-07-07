@@ -1,60 +1,61 @@
-a menina correrá
-a gata que ela conhece viu as tuas meninas lindas
-o menino o qual ele admira estava lindo
-o meu menino lindo correu
-o meu gato inteligente vê o meu gato inteligente
-o meu menino lindo estará no apartamento do meu menino
-os gatos inteligentes verão o gato
-a menina verá as minhas meninas inteligentes
-o menino que ele conhece verá os teus gatos lindos
-a tua gata inteligente viu as tuas meninas inteligentes
-o meu menino lindo estará nos apartamentos do teu menino
-os gatos cujos pais correrão estarão nos apartamentos dos teus meninos
-os gatos veem os teus gatos inteligentes
-os meninos cujos pais correram verão os gatos
-as gatas as quais elas admiram veem as tuas gatas lindas
-os gatos veem o meu gato inteligente
-ela vê as tuas gatas inteligentes
-os gatos lindos estarão nos apartamentos dos gatos
-as minhas meninas verão a minha gata inteligente
-as tuas meninas inteligentes verão a tua gata
-o menino inteligente estará nos apartamentos do teu menino
-as tuas gatas lindas estarão na casa
-os meus gatos verão o teu gato inteligente
-as gatas cujas mães correm estavam na casa das gatas
-a gata cuja mãe corre verá a gata inteligente
-os gatos inteligentes verão os teus meninos inteligentes
-o meu menino viu os meninos
-os gatos cujos pais correram verão o gato lindo
-os meus gatos lindos viram os teus gatos inteligentes
-as gatas cujas mães correrão verão as tuas gatas lindas
-a menina que ela admira estará na casa da minha menina
-os teus meninos inteligentes viram o teu menino lindo
-os meninos cujos pais correram verão os meus meninos lindos
-as meninas as quais elas conhecem estarão nas casas das meninas
-os meninos cujos pais correrão estavam nos apartamentos dos gatos
-a tua menina inteligente vê as gatas
-as gatas cujas mães correrão veem as meninas lindas
-o gato o qual ele conhece viu os meninos
-as gatas que elas admiram veem as gatas inteligentes
-a menina cuja mãe correrá verá as minhas gatas lindas
-a gata inteligente vê as tuas gatas inteligentes
-a gata linda viu a tua gata linda
+Padrão
+os gatos cujos pais correm estão inteligentes
+os teus meninos inteligentes viram o menino
 o menino cujo pai corre verá o teu menino inteligente
-os gatos cujos pais correrão viram o gato
-a gata linda viu as tuas meninas
-os gatos estão nos apartamentos dos gatos
-os meninos cujos pais correm veem o meu gato lindo
-a menina cuja mãe correrá viu as minhas meninas inteligentes
-os gatos cujos pais correm estão nos apartamentos dos gatos
-os meninos cujos pais correm estarão lindos
-os teus meninos inteligentes estavam nos apartamentos dos gatos
-os meninos os quais eles conhecem estão nos apartamentos dos teus meninos
-as minhas gatas lindas viram as tuas gatas lindas
-as gatas cujas mães correm estavam na casa das minhas meninas
-o gato inteligente estava nos apartamentos do gato
-o menino lindo viu os meninos
-as meninas as quais elas conhecem viram a tua menina inteligente
+o meu menino vê o teu gato lindo
+o teu menino inteligente será inteligente
+a gata linda estava nas casas da tua gata
+as meninas cujas mães correm viram a tua gata
+as tuas meninas veem a tua gata inteligente
+o meu menino viu os meninos
+o teu gato inteligente é inteligente
 o meu gato vê os teus gatos inteligentes
-as tuas gatas viram a minha menina linda
-a gata cuja mãe correu será linda
+as minhas meninas correram
+os meninos que eles conhecem viram o meu menino
+o meu menino viu os meus gatos
+o gato que ele admira verá o menino inteligente
+o teu menino lindo está no apartamento do meu gato
+as tuas meninas inteligentes verão a tua gata
+a menina correrá
+a menina vê a tua menina inteligente
+o gato o qual ele admira viu o menino
+a gata linda verá a gata
+a minha gata linda viu a tua gata
+a gata inteligente viu a tua gata inteligente
+as gatas cujas mães correrão viram a gata linda
+o menino lindo vê o menino
+os gatos viram o menino inteligente
+as meninas inteligentes verão as tuas meninas lindas
+as gatas cujas mães correrão veem as meninas lindas
+as gatas inteligentes viram as tuas gatas inteligentes
+o teu gato inteligente estará nos apartamentos do teu menino
+a tua menina inteligente correrá
+a tua gata era linda
+a menina cuja mãe correrá viu as minhas meninas inteligentes
+a gata cuja mãe correrá viu a gata inteligente
+a menina cuja mãe correrá verá a gata
+os meus meninos estavam no apartamento dos meus gatos
+as meninas lindas veem as minhas meninas inteligentes
+as gatas as quais elas admiram verão as tuas meninas
+as meninas cujas mães correram estavam nas casas das meninas
+os gatos cujos pais correm estarão inteligentes
+os gatos inteligentes verão os teus meninos inteligentes
+os teus meninos veem os gatos lindos
+a menina a qual ela admira verá as meninas lindas
+o menino inteligente está inteligente
+os gatos os quais eles admiram verão o teu menino inteligente
+a gata cuja mãe correu está nas casas da tua gata
+o gato cujo pai correrá verá os meus gatos inteligentes
+as meninas inteligentes veem a minha menina
+os gatos os quais eles admiram são inteligentes
+as meninas viram a gata
+os meus gatos verão o teu gato inteligente
+os meninos os quais eles conhecem veem o teu menino lindo
+o meu menino lindo estará no apartamento do meu menino
+o menino inteligente estará nos apartamentos do teu menino
+a minha gata inteligente verá as tuas meninas
+a minha gata linda verá as tuas meninas lindas
+os meninos cujos pais correrão verão os teus gatos lindos
+ela viu as tuas gatas inteligentes
+os gatos os quais eles admiram viram o teu menino lindo
+as gatas inteligentes correram
