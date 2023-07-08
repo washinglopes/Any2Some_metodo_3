@@ -1,664 +1,657 @@
 Padrão
-Má.
-Técnica.
-Aluno(a).
-Patrão.
-Garota.
-"Para ganhar desconto no livro, as leitoras precisarão chegar cedo."
-Eu amo como a Bethany explica as coisas.
-Órfã.
-Pergunta para a recepcionista onde fica.
-Alemã.
-Comecei a desseguir outras blogueiras.
-Estou apaixonada por um homem.
-Corpo de mulher.
-Poucos alunos tiveram dificuldade com o guia.
-Namorada.
-Esta é a minha sobrinha.
-Nós estávamos quietos.
-Cru.
-Revista masculina.
-Sua mãe é inteligente.
-Chorão.
-Trabalhadoras.
-Psicóloga(o).
-Nosso vizinho fez churrasco vegano.
-Cheiro de mulher.
-Profissões femininas.
-Cafetão.
-Materna.
-O pedido foi endereçado à Carla.
-Vaga de emprego apenas para homens.
-Convidaram poucas artistas trans para o evento.
-O discurso desta vegana abriu minha mente.
-Anciãs.
-Pedreiro.
-Atenciosa.
-O garçom anotou seu pedido?
-Capitães.
-Adulto.
-Mel não concorda com os atos deste ministro.
-Conterrâneo.
-Criativa(o).
-Respeite aquelas duas moças.
-Patriarcal.
-Autêntica.
-Atores.
-Marida
-Pintoras.
-Pintora.
-Esposo.
-Patroas.
-Crua.
-Amiga.
-Um deles é um pintor muito criativo.
-Irmãs.
-A câmera só fotografou meia modelo.
-Ansioso.
-Brinquedos de menino.
-Estrangeiros.
-Você é linda.
-Revista feminina.
-Profeta.
-Semideusa.
-Anciãos.
-Atrizes.
-Cabelo de homem.
-Órfão.
-Tem muito educador atrasado no assunto.
-Peguei o telefone duma gatinha.
-Saúde da mulher.
-Postiço(a).
-Estou preocupado com isso.
-Bonzão.
-Eu sabia que a vovó tinha esquecido a bolsa dela.
-Campeãs.
-O meteoro caiu naquele presidente.
-Marido
-Que menino mais lindo.
-Corte masculino.
-"Tem várias Anas. Mas, só uma usa roxo."
-Criança.
-Espião.
-Padrinho.
-Cansado.
-Me tornei uma ativista.
-Vi o Carlos e a Ana discutindo.
-Cafetina.
-"Dentre todos, apenas um acertou."
-Príncipe.
-Ansiosa.
-Enfermeiras.
-Este moço vai te acompanhar até ali.
-Poderoso.
-Pinguço.
-Tia(o).
-Bielo é uma das aliadas do projeto.
-Shampoo masculino.
-Espiãs.
-Bom.
-A tinta respingou num cliente.
-Sacerdote.
-Atrasada(o).
-Pintor(a).
-Estrangeira.
-Apaixonada.
-Eu não sou fraca.
-Irmã.
-Quanto ignorante naquele lugar.
-Talentoso(a).
-Tem dois moços me encarando.
-Anciões.
-Órfãos.
-Gigolôa.
-Mamãe.
-"Ambas, Carol e Nazaré, se sujaram de lama."
-"O Manoel tem um rosto lindo, pois tem acnes."
-Paternidade.
-Capitãs.
-Cidadão.
-Roupas femininas.
-Pinguço(a).
-Elas são tuas irmãs?
-Lindo(a).
-Uma das minhas irmãs deve saber.
-As mães da Alex foram gentis comigo.
-Sua namorada.
-Paterno.
-Juiz.
-"Ryn, suavemente beijou-a na boca."
-Trabalho de homem.
-Atencioso.
-Perfume feminino.
-Apaixonado.
-Maravilhoso.
-Nome masculino.
-Você está registrada.
-Nenhuma das suas tias vai?
-Aldeão.
-Filho.
-Compartilhe com suas amigas!
-Funcionário.
-Namorado.
-Patifa.
-Atrasada.
-Juízas.
-Semideusas.
-Irmão.
-Indivíduo.
-Gigolô.
-As duas loiras eram impostoras.
-Biólogo.
-Velho.
-Eu recebi a notícia pela Salvia.
-Aldeã.
-Campeões.
-Psicólogo.
-A polícia agrediu os moradores da região.
-Mestra.
-Administrador(a).
-Transfóbico(a).
-Conde.
-Monja.
-Ê alune está perguntando.
-Produto para homens.
-Postiça.
-Vou avisá-los sobre o aquecimento global.
-Professoras.
-Vilão.
-Ladras.
-Freguesa.
-Banheiro feminino.
-Condessa.
-Estressado.
-Administradores(as).
-Menina.
-Estrangeiro(a).
-Francesa.
-Nervoso.
-Contei para todos nossos amigos.
-Duquesa.
-Senhoras e senhores!
-Vô.
-Confio muito nessa delegada.
-A Ariel saiu de casa com a Cameron.
-Criativo.
-Atriz.
-Julia levou uma amiga ao teatro.
-Europeu.
-Conheço uma magra que não tem noção do que diz.
-Maternal.
-Psicóloga.
-Moço(a).
-Avô.
-Vou compartilhar o guia com estes colegas.
-Leiga.
-Chefa.
-Autêntico.
-Traços femininos.
-Trabalhadores(as).
-Menino(a).
-Eu sou o garoto que foi assassinado.
-Vó.
-Ele partiu.
-"Então, eu sou a dona daqui e ele é o gerente."
-Carro de mulher.
-Deus.
-Querida.
-Brucutu.
-Vilã.
-Ele chamou-as de princesas guerreiras.
-A receita da Tati foi elogiada por muitos.
-Dei uma bronca nesses meninos.
-Julia levou a amiga ao teatro.
-Pinguça.
-Filha.
-Genitália feminina.
-Foi uma vendedora que me deu o brinde.
-Eu sou toda grandona.
-Trabalho de mulher.
-Talentosa.
-Camponeses.
-Poeta
-Professores.
-Minhas duas tias chegaram.
-Amigo(a).
-Nora.
-Menino.
-Ancião.
-Querido.
-Maquiagem de homem.
-Mazinha.
-Estressada.
-Filho(a).
-Adulta.
-Jordan conheceu a professora.
-Meu filho me ligou hoje cedo.
-Genitália masculina.
-Minha prima Jazmin é cantora.
-Profissões masculinas.
-As duas vizinhas do Caluã estão vindo pra cá.
-Poderosa.
-Plebeu.
-Aldeões.
-Meus namorados já estão aqui.
-Leigo(a).
-O nome do seu namorado é Ariel?
-Vilãs.
-Princesa.
-Esmalte de homem.
-Minha cachorra mijou numa senhora.
-Corte feminino.
-Avózinha.
-Rapaz.
-Lindona.
-Traços masculinos.
-Eu o amava.
-Sua namorada.
-Nós estamos animados com a notícia.
-Ré.
-Cônsul.
-Vovô.
-Lindão.
-Deusas.
-Paterne.
-"Então, uma fada ordenou: Alba, desce!"
-Suíça.
-Colaram o adesivo só numas concorrentes.
-Um vampiro mordeu meu pescoço.
-Várias cientistas alertaram sobre o planeta.
-O Amiel precisava de um amigo.
-Que caras são esses?
-O gato arranhou o braço dela.
-Trabalhadora.
-Campeão.
-Irmãos.
-Capitã.
-Pintores(as).
-Pedreiros(as).
-Sacerdotisa.
-"Não ligue praquelas chatas, você está incrível!"
-Paternal.
-Mau.
-Fregueses.
-Público masculino.
-Morcega não os escolheu por acaso.
-Minha irmã mais nova é trans.
+Princesa
 Ele olhou pra Malu com aquela cara de birra.
-Você conversou com a Parma?
-Moça.
-Seu namorado.
-Suíço(a).
-Brucutia.
-Patrões.
-Galera.
-Você é linda.
-Cromossomos femininos.
-Gostosa.
-Rapariga.
-Querido(a).
-Ele se tornaria vosso sincero amigo.
-Cabelo de mulher.
-Sou a mesma garota que estava com você ontem à noite.
-Pai.
-Todas surdas merecem acessibilidade.
-Anciã.
-Matriarcal.
-Espiões.
-Tia.
-Cores neutras.
-Acho que a sereia hipnotizou o Alok.
-Disse “oi” pruma desconhecida sem querer.
-Morto.
-Aquelas que terminaram podem sair.
-Chefe.
-Adulta(o).
-Semideus.
-Jonas passou seu contato prumas colegas.
-Descobri isso pelo meu amigo.
-Guardiãs.
-Bem-vinda.
-A vaga é dos meninos.
-Garçonete.
-Os olhos dele são castanhos.
-Namorado(a).
-Brinquedos de menina.
-Cansada.
-Você é biólogo?
-Poetisa.
-Conversei bastante com a professora hoje.
-Marido(a)
-Camponesas.
-Nós vamos amá-la com qualquer corpo.
-Noviço.
-Tacaram fogo naqueles racistas.
-"Meninas, se lembrem disso: autocuidado, amor-próprio e saúde mental são essenciais!"
-Eles são amigos.
-Aldeãs.
-Eu sou um curioso de plantão.
-Eu estou cansada disso.
-Nossa tia é muito criativa.
-Novo.
-Os humanos fazem isso.
-Enfermeiros.
-Maternidade.
-Ladra.
-A desinformação preconceituosa foi repetida por muita burguesa safada.
-Trabalhador.
-"Esse meu amigo é professor, sabia?"
-Conheço umas garotas excelentes.
-Todos.
-Ladrão.
-Pedreiros.
-Freguês.
-Grandão.
-Anciães.
-Juíza.
-Materne.
-Criador brasileiro.
-Jogaram água nos modelos.
-Quem são nossos representantes?
-Cega.
-Isso depende de cada um de nós.
-Ator.
-Você é mentiroso.
-Nome feminino.
-Eu as vi rapidamente.
-Médico.
-Contrata-se mulheres.
-Obrigada(o).
-Freguesas.
-Guardião.
-Você é linda.
-Não encontrei elas.
-Os meus pais que compraram isso pra mim.
-Estrangeiros(as).
-Quanta moça bonita aqui!
-As meninas estão atrasadas.
-Vovó.
-Mazona.
-Garçom.
-A borboleta posou no jardineiro.
-Mestre.
-Dei um abraço na Izumi.
-Presidenta.
-Realizaram uma homenagem aos professores.
-Você viu uma moça louca tentando pular.
-Ciclo menstrual da mulher (cis).
-Terráqueo.
-Aldeãos.
+Sacerdotisa
+Genitália masculina
+Corte feminino
+Bonzinho
+Fregueses
 Eva as estranhou e latiu para ambas.
-Campeã.
-Saúde do homem.
-Pedreiro(a).
-Aldeães.
-Nenhuma nem outra se machucaram.
-Velha.
-Algumas escritoras são invisibilizadas pelo seu gênero.
-Mãe.
-Sejam bem-vindos!
-Esposa.
-Mochila de menina.
-Tatuei um coração naquela guria.
-Semideuses.
-Francesas.
-Todas as gordas são lindas.
-Dona.
-Noviço(a).
-Cego.
-Terráquea.
-Linda.
-Nu.
-Lindo.
-Funcionário(a).
-Ansiosa(o).
-Espiã.
-Lembrei daquelas colegas de sala.
-Olha a moça que te paquerou aquele dia ali.
-Reunião de pais.
-Você está registrada.
-Aquela moça trans não-binária me ensinou.
-Diga quem é a louca agora!
-As próprias responsáveis não sabem o código.
-Funcionária.
-Leigo.
-Garoto.
-Atrasado.
-Plebeia.
-Dono.
-Meninos e meninas!
-Administradoras.
-"Chamaram-no, com razão, de fascista."
-Francês.
-Franceses.
-Essa menina linda é minha neta.
-Alguma das suas netas gosta de pizza?
-Eu derrubei café nesse moço ontem.
-Morta.
-Consulesa.
-Administradora.
-Eu estava pensando nele de manhã.
-Rainha.
-Ateia.
-Deuses.
-Boazona.
-Deusa.
-Juízes.
-Enfermeiro(a).
-Cromossomos masculinos.
-Cega(o).
-Nova.
-Patroa.
-É desse garoto que eu gostava na escola.
-Enfermeiro.
-Produto para mulheres.
-Avó.
-Madrinha.
-Estrangeiro.
-Pelos meus irmãos eu faço de tudo.
-Moça.
-Diga praquele colega ler minha mensagem.
-Presidente.
-Boa.
-Ela partiu.
-Enfermeiros(as).
-Biólogo(a).
-Eu vi a menina pulando corda.
-Rosto de mulher.
-Pedreiras.
-Recebi mensagens de tanto desconhecido.
-Apaixonada(o).
-Mauzão.
-Bióloga.
-Profetisa.
-Tem algum pai presente?
-Gostoso.
-Alemães.
-Fui convidada pelo próprio baterista.
-Dona(o).
-Réu.
-Isso é para tode ê convidade.
-"Ela é a dona daqui, e é a minha tia também."
-A atriz vai dar vida a uma bruxa.
-Ateu.
+Mau
+Campeã
+Alemão
+Rosto de mulher
 Nós somos alunos de teatro.
-Coisas de homem.
-Conheço poucos guitarristas que tocam piano.
-Apenas dois cantores vencerão a disputa.
-Moço.
-Patife.
-O celular daquele senhor quebrou.
-Guardiães.
-Vou seguir o conselho dessa ativista.
-Dionne avistou dois médicos no corredor.
-Coisas de mulher.
-Esporte feminino.
-Você está toda molhada.
-Postiço.
-Paterna.
-Pintor.
-"Tanta preta retinta, mas só colocam brancas como modelo de tintura de cabelo."
-Karina odiava-o com tanta força que foi embora.
-Assunto de mulher.
-Entregue ao porteiro esses papéis.
-A Marie-Francine abriu uma loja de bolos veganos.
-Transfóbica.
-Camponês.
-Não gostei de nenhum deles.
-"Vitor desenhando, deixou meio elfo sem pintar."
-"Logo, ela explicará seus motivos."
-Cidadãos.
-Bolsa masculina.
-Talentoso.
-Maravilhosa.
-Órfãs.
-Mauzinho.
-Rei.
-Alexandra escolheu ambos candidatos para o cargo.
-Grandona.
-Enfermeira.
+Cônsul
+Mauzão
+O garçom anotou seu pedido?
+Psicólogo
+Tia
 Os moradores se uniram.
-Velho(a).
-Vou dormir na casa da Aura.
-Heroína.
-Médica(o).
-Monge.
-Professora.
-Genro.
-Sonhei com uns meninos bonitões hoje.
-Estressada(o).
-Ele e a moça de azul são namorados.
-Vaga de emprego apenas para mulheres.
-Fiquei chateado com ela e com a Manfrin.
-Transfóbico.
-O segredo do “pão de queijo” destas veganas está no polvilho azedo.
-Tio.
-"Prum bom entendedor, meia palavra basta."
-Administrador.
-Cidadã.
-Trabalhadores.
-Madrasta.
-Assunto de homem.
-Jogaram confete neste aluno.
-Camponesa.
-Padrasto.
-Banheiro masculino.
-Encontraram-nas plantando árvores.
-Autêntica(o).
-Tragam suas esposas e seus maridos.
-Estrangeiras.
-Materno.
-Aqueles que terminaram podem sair.
-Alemãs.
-Aluna.
-A peça é duns alunos do 2º ano.
-"Lu, ê tie já chegou aí?"
-"Não fiquem nervosos, seus feios!"
-Hormônio feminino.
-Obrigado.
-Ciclo menstrual do homem (trans).
-Elas mesmas que fizeram a festa.
-Aquela minha amiga me chamou.
-"Quando nos revermos, vou abraçá-lo tanto."
-Ela bebeu muita água.
-Essa blusa é dum tal de Alex aí.
-Guardiã.
-Garota(o).
-Pintores.
-Jordan conheceu uma professora.
-Você sabe se a Bryanna e o Cup vão para festa?
-Unhas de garota.
-Gêmea.
-A caneta é daquela moça.
-Duque.
-Avôzinho.
-Outro motorista bateu o carro.
-Quem são vossos representantes?
-Nua.
-Quantos apresentadores negros tem naquele programa de tv?
-Tem muito potencial nesta garota.
-Aluno.
-Europeia.
-Boazinha.
-Corpo de homem.
-Vilões.
-Aquela menina é minha filha.
-Chorona.
-Sejam cuidadosos.
-Todas.
-Pergunte praquela sua amiga se ela sabe.
-Cidadãs.
-Professores(as).
-As fotos dessas gordas são inspiradoras.
-Cumprimentei tantos convidados que cansei.
-Contrata-se homens.
-Professor.
-A própria advogada que me indicou.
-Davide reclamou pros vizinhos do barulho.
-Maravilhosa(o).
-Papai.
-Noviça.
-Deram folga para essas funcionárias.
-Cheiro de homem.
-Hormônio masculino.
-Bem-vindo.
-As cantoras denunciaram os assédios.
-Venha sozinho.
-Reserve para mim e ê moce que chegou.
-Criativa.
-Esposo(a).
-Mataram vários corruptos nessa manhã.
-Gêmeo.
-Escrevi uma carta de amor pro Luca.
-Comprei para o meu filho.
-É um absurdo todo protagonista ser branco.
-Sam deu um beijo nela.
-Técnico(a).
-Boa tarde a todos.
-Barão.
-Técnico.
-Conterrânea.
-Trabalhador(a).
-Capitão.
-Suíço.
-O Nico está empenhado na luta.
-Público feminino.
-Quem são nossos representantes?
-Criadores brasileiros.
-Amigo.
-Gostoso(a).
-Obrigada pelo aviso.
-Obrigada.
-Essa carteira é da Cameron.
-Uma advogada me avisou sobre isso.
-Ladrões.
-Perfume masculino.
-Os professores estão na reunião.
-Dê esse chocolate para uma de suas filhas.
-Todos(as).
-Tragam suas esposas e seus maridos.
-Você é biólogo?
-Gabi está dando alho para seus dois filhos.
-Nataly será uma zumbi faminta em breve.
-Guardiões.
-Baronesa.
+Ré
 Eu estou cansada disso.
-Rosto de homem.
-Bonzinho.
-Herói.
-Cansado(a).
-É um absurdo colocar a culpa nestas moças.
-Eu mesmo te contei aquilo.
-Alemão.
-Médica.
-Moço.
-Administradores.
-Seu namorado.
+Quantos apresentadores negros tem naquele programa de tv?
+Mestre
+Maravilhoso
+Padrasto
+Professores
+Cansado
+Postiço(a)
+As próprias responsáveis não sabem o código.
+Transfóbico
+Camponesa
+Julia levou a amiga ao teatro.
+A desinformação preconceituosa foi repetida por muita burguesa safada.
 Conte para todos eles.
-Roupas masculinas.
-Nervosa.
-Pedreira.
-Bem-vindo(a).
+Guardiãs
+Hormônio masculino
+Assunto de mulher
+Freguês
+Fiquei chateado com ela e com a Manfrin.
+Mochila de menina
+Camponesas
+Aldeão
+Sejam cuidadosos.
+Anciãos
+Eu amo como a Bethany explica as coisas.
+"Chamaram-no, com razão, de fascista."
+Atenciosa
+Chefa
+Descobri isso pelo meu amigo.
+Estressada(o)
+Lindão
+Obrigada(o)
+Patroa
+Quanto ignorante naquele lugar.
+A peça é duns alunos do 2º ano.
+Conterrânea
+"Vitor desenhando, deixou meio elfo sem pintar."
+Vó
+Conheço uma magra que não tem noção do que diz.
+Gostoso
+Marido
+Eu sou um curioso de plantão.
+A receita da Tati foi elogiada por muitos.
+Todos(as)
+Órfãos
+Irmãs
+Alexandra escolheu ambos candidatos para o cargo.
+Nosso vizinho fez churrasco vegano.
+Estrangeiro
+Garoto
+Duquesa
+Namorado(a)
+Vou dormir na casa da Aura.
+Materno
+Conversei bastante com a professora hoje.
+Traços femininos
+Meu filho me ligou hoje cedo.
+Gigolô
+Anciãs
+Cansada
+Criadores brasileiros.
+Ela partiu.
+Cidadã
+Uma das minhas irmãs deve saber.
+Genitália feminina
+Todas as gordas são lindas.
+Mamãe
+Unhas de garota
+Irmãos
+O Amiel precisava de um amigo.
+Estrangeiros
+Elas são tuas irmãs?
+Madrinha
+Príncipe
+Outro motorista bateu o carro.
+Os meus pais que compraram isso pra mim.
+As mães da Alex foram gentis comigo.
+Me tornei uma ativista.
+Confio muito nessa delegada.
+Trabalhador(a)
+Monja
+Eu recebi a notícia pela Salvia.
+Profissões masculinas
+Bom
+É um absurdo colocar a culpa nestas moças.
+Eu vi a menina pulando corda.
+"Ambas, Carol e Nazaré, se sujaram de lama."
+Linda
+Você conversou com a Parma?
+Chefe
+Deusas
+Nova
+Corpo de homem
+Disse “oi” pruma desconhecida sem querer.
+"Logo, ela explicará seus motivos."
+Plebeu
+Nenhuma das suas tias vai?
+Produto para mulheres
+Obrigada pelo aviso.
+Jogaram confete neste aluno.
+Camponês
+Hormônio feminino
+Indivíduo
+Boazona
+Shampoo masculino
+Patrões
 Teu professor me deu aula.
-Moço(a).
-Professor(a).
+A polícia agrediu os moradores da região.
+A caneta é daquela moça.
+Ciclo menstrual da mulher (cis).
+Nome feminino
+Cumprimentei tantos convidados que cansei.
+Jonas passou seu contato prumas colegas.
+"O Manoel tem um rosto lindo, pois tem acnes."
+Cidadãos
+Pedreiros(as)
+Tragam suas esposas e seus maridos.
+Patife
+Colaram o adesivo só numas concorrentes.
+Patrão
+Paterne
+Entregue ao porteiro esses papéis.
+Você está registrado.
+Aqueles que terminaram podem sair.
+Comprei para o meu filho.
+O gato arranhou o braço dela.
+Materna
+Nós vamos amá-la com qualquer corpo.
+Técnica
+Eu as vi rapidamente.
+Ciclo menstrual do homem (trans).
+Menino(a)
+Conterrâneo
+Terráquea
+Dei um abraço na Izumi.
+Público masculino
+Dionne avistou dois médicos no corredor.
+Alemãs
+Mestra
+Rainha
+Peguei o telefone duma gatinha.
+Trabalhadores
+Produto para homens
+Nataly será uma zumbi faminta em breve.
+Patriarcal
+Jordan conheceu uma professora.
+Pinguço
+Realizaram uma homenagem aos professores.
+Adulta(o)
+"Dentre todos, apenas um acertou."
+Apaixonado
+Bolsa masculina
+Novo
+Eu estava pensando nele de manhã.
+Traços masculinos
+Suíço
+Criança
+Amigo
+Vilã
+Administrador(a)
+Perfume masculino
+Boazinha
+Deuses
+Poucos alunos tiveram dificuldade com o guia.
+Diga quem é a louca agora!
+Assunto de homem
+Brinquedos de menina
+Morcega não os escolheu por acaso.
+Pedreiras
+Semideusa
+Administradores
+Professoras
+Lindo
+Freguesa
+O discurso desta vegana abriu minha mente.
+Vô
+Atores
+Uma advogada me avisou sobre isso.
+"Não fiquem nervosos, seus feios!"
+Cromossomos masculinos.
+Bem-vindo(a)
+Camponeses
+Cego
+Autêntico
+Ladra
+Aquela menina é minha filha.
+Poeta
+Boa tarde a todos.
+Capitã
+Noviça
+Aldeões
+Corte masculino
+Cromossomos femininos.
+Criativa(o)
+Coisas de mulher
+Funcionário
+Dona(o)
+Talentoso
+Atrasada(o)
+Pedreiro(a)
+Atriz
+Tem algum pai presente?
+Sua mãe é inteligente.
+Autêntica
+Contrata-se mulheres
+Estrangeiro(a)
+Respeite aquelas duas moças.
+Karina odiava-o com tanta força que foi embora.
+A câmera só fotografou meia modelo.
+Você está registrada.
+Adulta
+Quanta moça bonita aqui!
+Cru
+Cheiro de homem
+Pintores
+Juíza
+Guardiões
+Filho(a)
+Campeãs
+As duas loiras eram impostoras.
+Namorada
+Ateia
+"Tanta preta retinta, mas só colocam brancas como modelo de tintura de cabelo."
+Compartilhe com suas amigas!
+Essa menina linda é minha neta.
+Morto
+Tem muito potencial nesta garota.
+Esmalte de homem
+Convidaram poucas artistas trans para o evento.
+Encontraram-nas plantando árvores.
+Isso depende de cada um de nós.
+Capitãs
+Pinguça
+A tinta respingou num cliente.
+Paterno
+Gêmeo
+Francês
+Filha
+Filho
+Nervosa
+Espiã
+Ator
+Coisas de homem
+Grandão
+"Ryn, suavemente beijou-a na boca."
+Avózinha
+Médica(o)
+Recebi mensagens de tanto desconhecido.
+Minha prima Jazmin é cantora.
+Alguma das suas netas gosta de pizza?
+Cega
+Criador brasileiro.
+"Para ganhar desconto no livro, as leitoras precisarão chegar cedo."
+Eu sou o garoto que foi assassinado.
+O nome do seu namorado é Ariel?
+"Tem várias Anas. Mas, só uma usa roxo."
+Trabalhadoras
+Juízes
+Espiãs
+Todas surdas merecem acessibilidade.
+Vilões
+Apenas dois cantores vencerão a disputa.
+Adulto
+Rosto de homem
+Biólogo(a)
+Vilão
+Profissões femininas
+Materne
+Eu derrubei café nesse moço ontem.
+Aquela moça trans não-binária me ensinou.
+Enfermeira
+Comecei a desseguir outras blogueiras.
+Mazinha
+Contrata-se homens.
+Ateu
+Trabalho de homem
+A vaga é dos meninos.
+Meninos e meninas!
+Noviço
+Genro
+Condessa
+"Lu, ê tie já chegou aí?"
+Autêntica(o)
+Cidadão
+Dei uma bronca nesses meninos.
+Algumas escritoras são invisibilizadas pelo seu gênero.
+Todos
+Roupas masculinas
+Eu mesmo te contei aquilo.
+Gigolôa
+Ela bebeu muita água.
+Enfermeiros(as)
+Dono
+Profeta
+Anciã
+Administradora
+Aldeãs
+Crua
+Menina
+Guardiães
+Apaixonada(o)
+Moça
+Noviço(a)
+Você viu uma moça louca tentando pular.
+Gostoso(a)
+Galera
+Professor
+Amiga
+Plebeia
+Eles são amigos.
+Cega(o)
+Órfãs
+Patifa
+Grandona
+Revista masculina
+Nenhuma nem outra se machucaram.
+Vou avisá-los sobre o aquecimento global.
+"Prum bom entendedor, meia palavra basta."
+As duas vizinhas do Caluã estão vindo pra cá.
+Olha a moça que te paquerou aquele dia ali.
+As cantoras denunciaram os assédios.
+Mel não concorda com os atos deste ministro.
+Vovô
+Enfermeiras
+Consulesa
+Pai
+Meninos e meninas!
+Essa carteira é da Cameron.
+Administradoras
+Maravilhosa(o)
+Atrasado
+Um deles é um pintor muito criativo.
+Estou apaixonada por um homem.
+Namorado
+É desse garoto que eu gostava na escola.
+Deus
+Avôzinho
+Ladras
+Mazona
+Guardião
+Bem-vindo.
+Obrigado
+Eu estou cansado disso.
+Monge
+Este moço vai te acompanhar até ali.
+O pedido foi endereçado à Carla.
+Bonzão
+Administrador
+É um absurdo todo protagonista ser branco.
+Chorona
+Enfermeiro
+Órfã
+Leiga
+Chorão
+Criativa
+Pintoras
+Estressada
+Herói
+Psicóloga(o)
+Deusa
+Dê esse chocolate para uma de suas filhas.
+Cabelo de homem
+Tem dois moços me encarando.
+Brucutu
+Apaixonada
+"Então, eu sou a dona daqui e ele é o gerente."
+Campeões
+Poderoso
+Ansiosa(o)
+Talentoso(a)
+Rapaz
+Terráqueo
+Nervoso
+Diga praquele colega ler minha mensagem.
+Nós estamos animados com a notícia.
+Talentosa
+Você está toda molhada.
+Pedreiros
+Cores neutras
+Pinguço(a)
+Brucutia
+Paterna
+Vi o Carlos e a Ana discutindo.
+Juiz
+Irmão
+Velha
+Campeão
+Barão
+Vou seguir o conselho dessa ativista.
+Paternal
+Cabelo de mulher
+A Ariel saiu de casa com a Cameron.
+Querido(a)
+Estressado
+Europeia
+Baronesa
+Pedreiro
+Reserve para mim e ê moce que chegou.
+Sou a mesma garota que estava com você ontem à noite.
+Ele se tornaria vosso sincero amigo.
+Suíço(a)
+Vou compartilhar o guia com estes colegas.
+Marida
+Estou preocupado com isso.
+Transfóbica
+Criativo
+Patroas
+Alemã
+Garçonete
+Médico
+Você sabe se a Bryanna e o Cup vão para festa?
+Menino
+Técnico(a)
+Você é bióloga?
+Pintor
+Carro de mulher
+Bióloga
+Bem-vinda.
+Ladrões
+Cafetão
+Aquela minha amiga me chamou.
+Pergunte praquela sua amiga se ela sabe.
+Ladrão
+Atrasada
+Essa blusa é dum tal de Alex aí.
+Você é mentiroso.
+Má
+Sua namorada.
+Dona
+Os humanos fazem isso.
+Moço
+Professora
+Não encontrei elas.
+Poetisa
+Você é biólogo?
+Irmã
+Maternal
+Sonhei com uns meninos bonitões hoje.
+Gostosa
+Aluno(a)
+Nora
+Reunião de pais.
+Maquiagem de homem
+Vaga de emprego apenas para homens.
+Postiça
+Pintor(a)
+Acho que a sereia hipnotizou o Alok.
+Guardiã
+Pedreira
+Garota(o)
+Profetisa
+Você é lindo.
+Papai
+Alemães
+Eu não sou fraca.
+Funcionária
+Vovó
+As fotos dessas gordas são inspiradoras.
+Pergunta para a recepcionista onde fica.
+Saúde do homem
+Anciães
+Marido(a)
+Funcionário(a)
+Obrigada
+"Esse meu amigo é professor, sabia?"
+Tio
+A atriz vai dar vida a uma bruxa.
+Escrevi uma carta de amor pro Luca.
+Semideuses
+Revista feminina
+Juízas
+Espiões
+Velho
+Biólogo
+Gabi está dando alho para seus dois filhos.
+Maravilhosa
+Suíça
+Semideus
+Mataram vários corruptos nessa manhã.
+Conheço poucos guitarristas que tocam piano.
+Espião
+Conheço umas garotas excelentes.
+Que caras são esses?
+Rapariga
+O segredo do “pão de queijo” destas veganas está no polvilho azedo.
+O celular daquele senhor quebrou.
+Público feminino
+Elas mesmas que fizeram a festa.
+Que menino mais lindo.
+Conde
+Réu
+Ele chamou-as de princesas guerreiras.
+Corpo de mulher
+Saúde da mulher
+Banheiro masculino
+A Marie-Francine abriu uma loja de bolos veganos.
+Não gostei de nenhum deles.
+Trabalhador
+Ansiosa
+Gêmea
+Jordan conheceu a professora.
+Cheiro de mulher
+Vaga de emprego apenas para mulheres.
+Heroína
+Deram folga para essas funcionárias.
+Avó
+Lindona
+A borboleta posou no jardineiro.
+Pelos meus irmãos eu faço de tudo.
+Ancião
+Meus namorados já estão aqui.
+Pintora
+"Então, uma fada ordenou: Alba, desce!"
+Ê alune está perguntando.
+Quem são nossos representantes?
+Rei
+Jogaram água nos modelos.
+Nossa tia é muito criativa.
+Bielo é uma das aliadas do projeto.
+Leigo
+Tia(o)
+Garçom
+Postiço
+Tacaram fogo naqueles racistas.
+Estrangeira
+Nós estávamos quietos.
+Francesa
+Esposo
+Fui convidada pelo próprio baterista.
+As meninas estão atrasadas.
+Presidente
+Leigo(a)
+Várias cientistas alertaram sobre o planeta.
+Esporte feminino
+"Meninas, se lembrem disso: autocuidado, amor-próprio e saúde mental são essenciais!"
+Garota
+Eu sabia que a vovó tinha esquecido a bolsa dela.
+Madrasta
+Cafetina
+Estrangeiras
+Francesas
+Lembrei daquelas colegas de sala.
+Querido
+Amigo(a)
+Capitão
+Médica
+Freguesas
+Venha sozinho.
+Presidenta
+Perfume feminino
+Roupas femininas
+Brinquedos de menino
+"Quando nos revermos, vou abraçá-lo tanto."
+Vilãs
+"Ela é a dona daqui, e é a minha tia também."
+Aluna
+Quem são vossos representantes?
+Padrinho
+Capitães
+Eu o amava.
+Aldeães
+Minhas duas tias chegaram.
+Minha cachorra mijou numa senhora.
+Europeu
+"Não ligue praquelas chatas, você está incrível!"
+Ansioso
+Lindo(a)
+Poderosa
+Professor(a)
+O meteoro caiu naquele presidente.
+Técnico
+Julia levou uma amiga ao teatro.
+Anciões
+Pintores(as)
+Contei para todos nossos amigos.
+Esta é a minha sobrinha.
+Minha irmã mais nova é trans.
+Mãe
+Aldeã
+Nu
+Atencioso
+Nome masculino
+Todas
+Eu sou toda grandona.
+O Nico está empenhado na luta.
+Cansado(a)
+Maternidade
+Ele e a moça de azul são namorados.
+Isso é para tode ê convidade.
+Banheiro feminino
+A própria advogada que me indicou.
+Sam deu um beijo nela.
+Enfermeiros
+Semideusas
+Aluno
+Os professores estão na reunião.
+Aldeãos
+Os olhos dele são castanhos.
+Morta
+Paternidade
+Nua
+Psicóloga
+Trabalho de mulher
+Boa
+Esposa
+Seu namorado.
+Transfóbico(a)
+Velho(a)
+Tem muito educador atrasado no assunto.
+Atrizes
+Órfão
+Cidadãs
+Duque
+Sacerdote
+Querida
+Moço(a)
+Matriarcal
+Trabalhadora
+Foi uma vendedora que me deu o brinde.
+Professores(as)
+Esposo(a)
+Sejam bem-vindos!
+Aquelas que terminaram podem sair.
+Um vampiro mordeu meu pescoço.
+Você é linda.
+Trabalhadores(as)
+Avô
+Franceses
+Senhoras e senhores!
+Enfermeiro(a)
+Mauzinho
+Estrangeiros(as)
+Ele partiu.
+Administradores(as)
+Tatuei um coração naquela guria.
+Davide reclamou pros vizinhos do barulho.
