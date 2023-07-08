@@ -77,7 +77,7 @@ class Inferencer:
                 refs.append([nltk.word_tokenize(ref) for ref in row['refs']])
         
         chencherry = SmoothingFunction()
-        bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method4)
+        bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method3)
         print('BLEU: ', bleu)
         return bleu
 
