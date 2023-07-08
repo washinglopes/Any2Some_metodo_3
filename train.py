@@ -143,7 +143,7 @@ class Trainer:
                 acc += 1
         
         chencherry = SmoothingFunction()
-        bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method3)
+        bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method4)
         return bleu, float(acc) / len(results)
     
 class NewsDataset(Dataset):
